@@ -13,7 +13,7 @@ The project was developed and demonstrated by our team as part of **EmbedQuest 2
 
 ---
 
-## 📝 Problem Statement (Provided by Organizers)
+## 📝 Problem Statement (Provided)
 
 > *Design an embedded system prototype for a smart home that uses minimal components to provide automation and safety functionalities such as environmental hazard detection and occupancy-based control. The final demo must be built on an Arduino-compatible platform and should reflect real-time responsiveness and innovation in cost efficiency.*
 
