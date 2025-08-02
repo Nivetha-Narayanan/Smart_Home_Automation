@@ -102,6 +102,9 @@ The project was developed and demonstrated by our team as part of **EmbedQuest 2
 - Rain → `RAIN DETECTED  \nCLOTHS PROTECTED`
 
 ---
+📂 **Source Code**  
+👉 [Click here to view the Arduino code](Arduino_code.ino)
+
 
 ## 🧠 Code Highlights
 
