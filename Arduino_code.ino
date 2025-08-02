@@ -213,4 +213,4 @@ delay(50);
 }
 noTone(BUZZER);
 }
-This is my smart home automation system that I made for samgatha x vashisht 2025 for Embedquest by IIITDM, kancheepuram and won first price. Give me read me file for this project repository
+
