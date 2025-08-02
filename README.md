@@ -122,8 +122,8 @@ showMessage();             // Reusable LCD msg function
 
 Here is the physical prototype of our Smart Home Automation System developed during EmbedQuest 2025:
 
-![Smart Home Demo Structure](smart_home_str1.jpeg)
-![Smart Home Demo Structure](smart_home_str2.jpeg)
+![Smart Home Demo Structure](output/smart_home_str1.jpeg)
+![Smart Home Demo Structure](output/smart_home_str2.jpeg)
 
 
 # 👥 Team Members
