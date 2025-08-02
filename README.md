@@ -9,7 +9,7 @@
 
 This Smart Home Automation system is a fully integrated embedded solution developed using **Arduino UNO**, designed to automate home safety and convenience features. It combines multiple sensors, actuators, and alert mechanisms to deliver a smart environment that responds intelligently to real-world events like presence detection, fire, gas leaks, and rainfall.
 
-The project was developed and demonstrated by our team as part of **EmbedQuest 2025**, where it was awarded **First Prize** for its functional depth, creativity, and real-time responsiveness.
+The project was developed and demonstrated by our team as part of **EmbedQuest 2025**, where it was awarded **First Prize** for its functional depth and real-time responsiveness.
 
 ---
 
