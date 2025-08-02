@@ -129,7 +129,7 @@ Here is the physical prototype of our Smart Home Automation System developed dur
 # 👥 Team Members
 
 This project was developed by students of 
-**Madras Institue Of Technology(Anna University),Chrompet**
+**Madras Institue Of Technology(Anna University),Chrompet,Chennai**
  | Name             |
 |------------------|
 |Anusree S         |
